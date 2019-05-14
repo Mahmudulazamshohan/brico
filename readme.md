@@ -5,12 +5,12 @@ Some Screenshot from project
 <h2 align="left">
 Admin Dashboard
 </h2>
-<img src="a1.png">
+<img src="a1.jpg">
 <h2 align="left">
 All Stock Invoice
 </h2>
-<img src="a3.png">
+<img src="a3.jpg">
 <h2 align="left">
 Add Customer Information
 </h2>
-<img src="a2.png">
+<img src="a2.jpg">
